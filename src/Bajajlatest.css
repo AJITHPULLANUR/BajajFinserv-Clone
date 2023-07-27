@@ -1,0 +1,1788 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navfullsub{
+    width: 100%;
+    height: 50px;
+    display: flex;
+  
+    
+    
+
+}
+.root1fullbody{
+  background-color: rgba(248, 239, 239, 0.904);
+}
+.layoutfull{
+    width: 200px;
+    height: 50px;
+    background-color: rgba(0, 0, 114, 0.815);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+   
+
+}
+.canvasbutton{
+    height: 40px;
+    width: 40px;
+   border: 0;
+   background: 0;
+}
+#offcanvasScrolling{
+    /* background-color: rgb(28, 28, 243); */
+    width: 380px;
+   
+ 
+   
+   
+}
+.offcanvas-body{
+    
+    overflow: hidden;
+}
+.navfull{
+    width: 100%;
+    /* background-color: rgba(0, 0, 114, 0.815); */
+    background-color: rgb(12, 12, 112);
+    height: 85px;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    z-index: 2000;
+   
+}
+.inputdiv{
+    width: 600px;
+    background-color: rgba(0, 0, 114, 0.815);
+    font-size: 13px;
+    color: grey;
+    justify-content:space-evenly ;
+    display: flex;
+    height: 50px;
+    align-items: center;
+
+    
+    
+}
+.inputnav{
+    width: 580px;
+    height: 35px;
+    border-radius: 4px;
+    border: 0;
+    background-image: url(https://img.icons8.com/ios/50/search--v1.png);
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: right;
+    padding-left: 2rem;
+    background-color: white;
+    outline: none;
+}
+.options{
+    background-color: rgba(0, 0, 114, 0.815);
+    width: 40%;
+    display: flex;
+    justify-content:space-evenly ;
+    height: 50px;
+
+    align-items: center;
+}
+.optionsdiv{
+    
+    height: 45px;
+    width: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.optiontext{
+    font-size: 10px;
+    color: white;
+    font-weight: 700;
+}
+.line{
+    font-size: 25px;
+    color: grey;
+}
+.optionsdiv:hover{
+    background-color: black;
+
+}
+
+.dropsidebox{
+    background-color: rgba(1, 1, 75, 0.815);
+    width: 100%;
+    height: 90px;
+    display: flex;
+    border-radius: 8px;
+}
+.dropimg{
+    
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.textdrop{
+
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-evenly;
+    width: 250px;
+    height: 90px;
+    
+    
+}
+.droparrow{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+   
+}
+.droptext{
+    font-size: 13px;
+    color: grey;
+}
+.account{
+    color: white;
+    font-weight: 700;
+}
+
+#dropdownbutton{
+    background-color: white;
+    width: 80%;
+    border: 0;
+    color: black;
+    text-align: start;
+   
+    border-radius: 0;
+    /* margin-top: 1rem; */
+    
+    background-image: url(Components/Layout1/Logos/droplogos/buildings.png);
+    background-repeat: no-repeat;
+    background-position: left;
+   padding-left: 2rem;
+background-position: 6px;
+
+height: 30px;
+background-size: 22px;
+background-position-y: 7px;
+font-weight: 500;
+    
+   
+    
+}
+#dropdownbutton2{
+    background-color: white;
+    width: 80%;
+    border: 0;
+    color: black;
+    text-align: start;
+   
+    border-radius: 0;
+    /* margin-top: 1rem; */
+    
+    background-image: url(Components/Layout1/Logos/droplogos/support.png);
+    background-repeat: no-repeat;
+    background-position: left;
+   padding-left: 2rem;
+background-position: 6px;
+
+height: 30px;
+background-size: 22px;
+background-position-y: 7px;
+font-weight: 500;
+    
+   
+    
+}
+#dropdownbutton3{
+    background-color: white;
+    width: 80%;
+    border: 0;
+    color: black;
+    text-align: start;
+   
+    border-radius: 0;
+    /* margin-top: 1rem; */
+    
+    background-image: url(Components/Layout1/Logos/droplogos/calendar.png);
+    background-repeat: no-repeat;
+    background-position: left;
+   padding-left: 2rem;
+background-position: 6px;
+
+height: 30px;
+background-size: 22px;
+background-position-y: 7px;
+font-weight: 500;
+    
+   
+    
+}
+#dropdownbutton4{
+    background-color: white;
+    width: 80%;
+    border: 0;
+    color: black;
+    text-align: start;
+   
+    border-radius: 0;
+    /* margin-top: 1rem; */
+    
+    background-image: url(Components/Layout1/Logos/droplogos/giftbox.png);
+    background-repeat: no-repeat;
+    background-position: left;
+   padding-left: 2rem;
+background-position: 6px;
+
+height: 30px;
+background-size: 22px;
+background-position-y: 7px;
+font-weight: 500;
+    
+   
+    
+}
+#dropdownbutton5{
+    background-color: white;
+    width: 80%;
+    border: 0;
+    color: black;
+    text-align: start;
+   
+    border-radius: 0;
+    /* margin-top: 1rem; */
+    
+    background-image: url(Components/Layout1/Logos/droplogos/pin.png);
+    background-repeat: no-repeat;
+    background-position: left;
+   padding-left: 2rem;
+background-position: 6px;
+
+height: 30px;
+background-size: 22px;
+background-position-y: 7px;
+font-weight: 500;
+    
+   
+    
+}
+#dropdownbutton6{
+    background-color: white;
+    width: 80%;
+    border: 0;
+    color: black;
+    text-align: start;
+   
+    border-radius: 0;
+    /* margin-top: 1rem; */
+    
+    background-image: url(Components/Layout1/Logos/droplogos/discount.png);
+    background-repeat: no-repeat;
+    background-position: left;
+   padding-left: 2rem;
+background-position: 6px;
+
+height: 30px;
+background-size: 22px;
+background-position-y: 7px;
+font-weight: 500;
+    
+   
+    
+}
+#dropdownbutton7{
+    background-color: white;
+    width: 80%;
+    border: 0;
+    color: black;
+    text-align: start;
+   
+    border-radius: 0;
+    /* margin-top: 1rem; */
+    
+    background-image: url(Components/Layout1/Logos/droplogos/iphone.png);
+    background-repeat: no-repeat;
+    background-position: left;
+   padding-left: 2rem;
+background-position: 6px;
+
+height: 30px;
+background-size: 22px;
+background-position-y: 7px;
+font-weight: 500;
+    
+   
+    
+}
+#dropdownbutton8{
+    background-color: white;
+    width: 80%;
+    border: 0;
+    color: black;
+    text-align: start;
+   
+    border-radius: 0;
+    /* margin-top: 1rem; */
+    
+    background-image: url(Components/Layout1/Logos/droplogos/notebook.png);
+    background-repeat: no-repeat;
+    background-position: left;
+   padding-left: 2rem;
+background-position: 6px;
+
+height: 30px;
+background-size: 22px;
+background-position-y: 7px;
+font-weight: 500;
+    
+   
+    
+}
+.companytext{
+    font-size: 13px;
+    color: grey;
+    padding-left: 4rem;
+    margin-top: 2rem;
+}
+.dropdownoptiondiv{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    height: 50px;
+    border-bottom: 1px solid grey;
+    flex-direction: column;
+   
+    
+   
+}
+
+.review{
+    font-size: 11px;
+    color: grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#offcanvasScrollingLabel{
+    font-weight: 700;
+}
+
+
+/* .........................................................................hovernav */
+
+.hovernav{
+    width: 100%;
+    height: 35px;
+    /* padding-top: 68px; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.fullsec{
+    width: 60%;
+  
+    height: 35px;
+    display: flex;
+  }
+  
+  
+  
+  
+  
+  
+  
+  .dropbutton {
+    /* background-color: rgb(233, 44, 44); */
+    color: white;
+   width: 85px;
+   height: 30px;
+    /* background-color: rgba(0, 0, 114, 0.815); */
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  }
+  
+  .dropdowndiv {
+    position: relative;
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    /* background-color: aqua; */
+  }
+  
+  .dropdownlist {
+    display: none;
+    position: absolute;
+    background-color: rgb(4, 4, 49);
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    
+  }
+  
+  .dropdownlist span {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    color: white;
+    text-align: start;
+    font-size: 12px;
+    font-weight: 700;
+    
+  }
+  .dropdownlist span:hover
+   {
+    background-color: rgb(26, 26, 58);
+  }
+  
+  .dropdowndiv:hover .dropdownlist {
+    
+    display: block;
+  }
+  
+  .dropdowndiv:hover .dropbutton {
+    background-color: rgb(7, 7, 7)
+  }
+  .taghovernav{
+   
+   width: 80px;
+  
+    background-image: url(Components/Layout1/Logos/droplogos/down.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 22px;
+    background-position-y: 1px;
+    font-size: 12px;
+    
+    font-weight: 600;
+    margin-left: 10px;
+    
+  }
+  .taghovernav1{
+   
+    width: 90px;
+  
+    background-image: url(Components/Layout1/Logos/droplogos/down.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 20px;
+    background-position-y: 1px;
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 10px;
+
+    
+  }
+  .taghovernavcard{
+   
+    width: 80px;
+   
+     background-image: url(Components/Layout1/Logos/droplogos/down.png);
+     background-repeat: no-repeat;
+     background-position: right;
+     background-size: 22px;
+     background-position-y: 1px;
+     font-size: 12px;
+     
+     font-weight: 600;
+     margin-left: 10px;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /* ............................feed */
+
+   .feedbackportion{
+
+    width: 32%;
+    height: 35px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    /* background-color: rgba(1, 1, 75, 0.815); */
+    /* background-color: rgba(0, 0, 114, 0.815); */
+  
+  }
+  
+  .feedoption{
+    background-color: black;
+    height: 30px;
+    width: 100px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 5px;
+   margin-left: 1rem;
+  }
+  .feedoption2{
+    background-color: black;
+    height: 30px;
+    width: 150px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 5px;
+   margin-right: 1rem;
+   margin-left: 1rem;
+  }
+  .feedbackanddownload2{
+  
+    color: white;
+    height: 20px;
+    width: 130px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 700;
+   
+  }
+  .feedbackanddownload{
+    color: white;
+    height: 20px;
+    width: 90px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 700;
+  }
+ 
+  .iphone:hover{
+    
+    color: red;
+  }
+
+
+  .jj{
+    background-color: aqua;
+    width: 100%;
+    height: 100vh;
+  }
+
+
+
+
+
+
+
+  /* .....................................CONTENT1 START................................................... */
+
+
+  
+
+
+
+
+.side{
+  width: 100%;
+  height: 350px;
+display: flex;
+justify-content: start;
+align-items: center;
+/* background-color: aqua; */
+margin-top: 80px;
+
+} 
+
+
+
+
+
+
+
+
+.firstsub{
+  width: 300px;
+  height: 27px;
+  padding-left: 1rem;
+  text-align: start;
+
+
+}
+.tagofhome{
+  font-size: 15px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: white;
+  font-weight: 700;
+  display: flex;
+  padding-top: 10px;
+ 
+}
+.section{
+  
+  width: 300px;
+  height: 100px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+}
+.imgdiv{
+  width: 60px;
+  height: 70px;
+/* background-color: aqua; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.imgdiv5{
+  width: 70px;
+  height: 70px;
+/* background-color: aqua; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textsize{
+  font-size: 12px;
+  color: red;
+  font-weight: 500;
+}
+.textsize1{
+  font-size: 11px;
+  color: white;
+  font-weight: 500;
+}
+
+.secondsub{
+  width: 350px;
+  height: 100px;
+ 
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  /* background-color: aqua; */
+}
+.firstsubdiv{
+  width: 340px;
+  height: 130px;
+  border-radius: 8px;
+ background-image: url(https://t3.ftcdn.net/jpg/03/21/65/66/240_F_321656620_MJBEBi1njGpoc9V4D3injfmkhRe0YF3k.jpg);
+}
+.firstsubdiv2{
+  width: 340px;
+  height: 130px;
+  border-radius: 8px;
+ background-image: url(https://image.slidesdocs.com/responsive-images/background/black-card-business-enterprise-simple-powerpoint-background_45ea96ba2a__960_540.jpg);
+}
+.firstsubdiv3{
+  width: 340px;
+  height: 130px;
+  border-radius: 8px;
+ background-image: url(https://img.lovepik.com/background/20211021/large/lovepik-simple-blue-card-background-image_400095997.jpg);
+}
+
+
+
+/* ......................................................end cards */
+
+
+
+.firstcomponent{
+  width: 85%;
+  height: 350px;
+ 
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
+.firstcardbody{
+  width: 100%;
+  height: 150px;
+  /* background-color: chartreuse; */
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.secondcard{
+  /* background-color: coral; */
+  width: 100%;
+display: flex;
+height: 190px;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.secimagediv{
+  width: 90px;
+  /* background-color: aqua; */
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+}
+.viewofsecondcard{
+  background-color: white;
+
+  width: 98%;
+  display: flex;
+  justify-content: space-between;
+border-radius: 8px 8px 0 0;
+
+
+}
+.seccardsub{
+  width: 98%;
+  height: 180px;
+  background-color: white;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: start;
+  border-radius: 8px;
+  flex-direction: column;
+ 
+  box-shadow: 0 0 8px ;
+  
+}
+.seccardtext{
+  color: grey;
+  font-weight: 400;
+  font-size: 13px;
+}
+.bills{
+  padding-left: 1rem;
+  font-weight: 500;
+  font-size: 18px;
+}
+.bills2{
+  color: red;
+  font-weight: 700;
+  padding-right: 10px;
+}
+.Secimagefulldiv{
+width: 70%;
+ 
+  display: flex;
+  /* background-color: aqua; */
+justify-content: space-evenly;
+align-items: start;
+}
+.imagedivision{
+  border-radius: 25px;
+  border-right: 1px solid grey;
+  border-top: 1px solid grey;
+  border-left: 1px solid grey;
+  
+ 
+}
+
+
+/* sidebar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+
+.sidediv{
+  width: 15%;
+  height: 350px;
+  /* background-color: brown; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sidedivsub{
+  width: 90%;
+  height: 300px;
+  background-color: white;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 0;
+  box-shadow: 0 0 10px  grey;
+}
+.storetext{
+  font-weight: 500;
+  font-size: 17px;
+  padding-right: 1.5rem;
+  
+}
+.sidedivtext{
+  /* background-color: blue; */
+  height: 30px;
+  width: 100%;
+}
+.sidecombodiv{
+  width: 95%;
+  height: 60px;
+  /* background-color: rgb(54, 226, 20); */
+  display: flex;
+  
+  justify-content: start;
+  align-items: center;
+  border-bottom: 1px solid grey;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.sidecombodiv1{
+  width: 95%;
+  height: 60px;
+  /* background-color: rgb(54, 226, 20); */
+  display: flex;
+  
+  justify-content: start;
+  align-items: center;
+  
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.combotext{
+  padding-left: 1rem;
+  font-size: 15px;
+}
+
+
+
+
+
+/* ...................................Content2 start.......................................... */
+
+.fullsecondbody{
+  /* background-color: blue; */
+  width: 100%;
+  height: 380px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+.combosecondbody{
+  width: 99%;
+  height: 340px;
+  /* background-color: rgb(0, 255, 42); */
+  display: flex;
+
+}
+.secondbodytwoinone{
+  width: 84%;
+  height: 320px;
+  /* background-color: aqua; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+ 
+  border: 0;
+  
+}
+.secondbodyfullone{
+  /* background-color: yellow; */
+  width: 100%;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 6px;
+
+}
+.secondbodyfulltwo{
+  background-color: white;
+  width: 100%;
+  height: 170px;
+box-shadow: 0 0 6px black;
+  border-radius: 8px;
+  border: 1 px solid grey;
+  margin-left: 6px;
+}
+
+.carousal{
+  /* background-color: white; */
+  height: 135px;
+  width: 100%;
+  display: flex;
+
+  align-items: center;
+}
+.carousalimages{
+  border-radius: 8px;
+}
+
+
+
+
+/* ...... */
+
+
+.electronicscarousal{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(232, 184, 247);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 20px;
+  
+}
+.electronicscarousal1{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(159, 235, 212);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 20px;
+}
+
+.electronicscarousal2{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(247, 248, 173);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 20px;
+}
+
+.electronicscarousal3{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(238, 197, 170);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 20px;
+}
+
+.electronicscarousal4{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(243, 195, 215);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 20px;
+}
+
+.electronicscarousal5{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(172, 248, 153);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 20px;
+}
+
+.electronicscarousal6{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(175, 237, 241);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 20px;
+}
+
+.electronicscarousal7{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(192, 192, 228);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 20px;
+}
+
+.textcarousal{
+  font-size: 13px;
+  font-weight: 400;
+}
+
+
+
+/* ....................secondbodyside....................... */
+
+.secondbodysidetwo{
+  /* background-color: rgb(241, 148, 60); */
+width:20%;
+  height: 300px;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+}
+
+.secondsideimage{
+  /* background-color: darkgreen; */
+  width: 64px;
+  height: 35px;
+  padding-top: 7px;
+}
+.secondsidecombo{
+  width: 85%;
+  /* background-color: chartreuse; */
+  height: 300px;
+  border-radius: 6px;
+  box-shadow: 0 0 4px grey;
+  background-color: white;
+  margin-left: 19px;
+
+}
+.secondsideheading{
+  width: 80%;
+  height: 60px;
+  /* background-color: blueviolet; */
+  margin-left: 1rem;
+  text-align: start;
+  font-weight: 600;
+}
+.secondsidetext{
+  font-size: 16px;
+}
+.secondsideparagraph{
+  width: 80%;
+  /* background-color: crimson; */
+  height: 180px;
+  margin-left: 1rem;
+  text-align: start;
+  color: gray;
+}
+.secondsideparalast{
+  font-weight: 500;
+  font-size: 15px;
+  color: black;
+}
+.secondsidepara{
+  font-size: 14px;
+}
+.headingsecond{
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2px;
+  height: 25px;
+}
+.secondcarousalheadtextlast{
+  color: red;
+  font-weight: 500;
+  
+}
+.secondcarousalheadtext{
+  font-weight: 500;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+/* ..................................CONTENT3........................................................ */
+
+.thirdbodyfull{
+  /* background-color: antiquewhite; */
+  width: 100%;
+  height: 385px;
+
+}
+.thirdfirstbody{
+  /* background-color: aquamarine; */
+  width: 85%;
+  height: 370px;
+ 
+}
+.thirdfirstdiv{
+  /* background-color: burlywood; */
+  width: 100%;
+  height: 190px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+}
+.thirddivfirstbox{
+  background-color: white;
+  height: 180px;
+  width: 47%;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0 0 4px black;
+  
+}
+.thirdsecondbox{
+  background-color: white;
+  height: 180px;
+  width: 47%;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0 0 4px black;
+}
+.thirdsecondbody{
+  width: 96%;
+  height: 175px;
+  background-color: white;
+  margin-left: 20px;
+  box-shadow: 0 0 4px black;
+  border-radius: 8px;
+  margin-top: 10px;
+
+}
+.thirdbodycomboimage{
+  width: 100%;
+  height: 160px;
+  /* background-color: rgb(214, 138, 16); */
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  
+}
+.thirdbodysecondrowcomboimage{
+  width: 60%;
+  height: 140px;
+  /* background-color: rgb(214, 138, 16); */
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+}
+.thirdbodyimageandtext{
+  width: 80px;
+  height: 110px;
+  /* background-color: rgb(224, 236, 232); */
+  font-size: 13px;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  text-align: center;
+}
+.thirdbodyimagediv{
+  width: 80px;
+  height: 60px;
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.thirdbodytext{
+  display: flex;
+  justify-content: space-between;
+  width: 96%;
+  height: 30px;
+  /* background-color: aqua; */
+  padding-top: 5px;
+}
+.thirdbodytext1{
+  display: flex;
+  justify-content: space-between;
+  width: 98%;
+  height: 30px;
+  /* background-color: aqua; */
+  padding-top: 5px;
+  padding-left: 10px;
+}
+.thirdbodyinsurancehead{
+  font-size: 16px;
+  font-weight: 600;
+}
+.thirdbodysubhead{
+  color: red;
+  font-weight: 500;
+}
+
+/* .................................CONTENT4....................................... */
+
+.fourthbodyfull{
+  /* background-color: rgb(243, 145, 18); */
+  width: 85%;
+  height: 385px;
+
+}
+
+
+
+
+.fourthsecondbody{
+  width: 96%;
+  height: 175px;
+  background-color: white;
+  margin-left: 20px;
+  box-shadow: 0 0 8px black;
+  border-radius: 8px;
+  margin-top: 10px;
+
+}
+
+.fourthsecondrowcomboimage{
+  width: 100%;
+  height: 140px;
+  /* background-color: rgb(214, 138, 16); */
+  /* display: flex;
+  justify-content: space-evenly;
+  align-items: center; */
+
+}
+.fourthimageandtext{
+  width: 80px;
+  height: 110px;
+  /* background-color: rgb(224, 236, 232); */
+  font-size: 13px;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+.fourthimagediv{
+  width: 80px;
+  height: 60px;
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fourthtext{
+  display: flex;
+  justify-content: space-between;
+  width: 96%;
+  height: 30px;
+  /* background-color: aqua; */
+  padding-top: 5px;
+}
+.fourthtext1{
+  display: flex;
+  justify-content: space-between;
+  width: 98%;
+  height: 30px;
+  /* background-color: aqua; */
+  padding-top: 5px;
+  padding-left: 10px;
+}
+.fourthbodyinsurancehead{
+  font-size: 16px;
+  font-weight: 600;
+}
+.fourthbodysubhead{
+  color: red;
+  font-weight: 500;
+}
+
+
+
+
+/* ........................... */
+
+.carousal{
+  /* background-color: rgb(189, 19, 19); */
+  height: 135px;
+  width: 98%;
+  display: flex;
+
+  align-items: center;
+  margin-left: 9px;
+}
+.carousalimages{
+  border-radius: 8px;
+}
+.fourthelectronicscarousal{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(232, 184, 247);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 25px;
+  
+}
+.textcarousal{
+  font-size: 13px;
+  font-weight: 400;
+}
+.fourthelectronicscarousal1{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(159, 235, 212);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 25px;
+}
+
+.fourthelectronicscarousal2{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(247, 248, 173);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 25px;
+}
+
+.fourthelectronicscarousal3{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(238, 197, 170);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 25px;
+}
+
+.fourthelectronicscarousal4{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(243, 195, 215);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 25px;
+}
+
+.fourthelectronicscarousal5{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(172, 248, 153);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 25px;
+}
+
+.fourthelectronicscarousal6{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(175, 237, 241);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 25px;
+  text-align: center;
+}
+
+.fourthelectronicscarousal7{
+  width: 110px;
+  height: 110px;
+  background-color: rgb(192, 192, 228);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 6px;
+  margin-left: 25px;
+  text-align: center;
+}
+.fourthsecondbodyfullone1{
+  width: 80%;
+  /* background-color: blueviolet; */
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 140px;
+}
+
+
+/* ........................................CONTENT5............................................... */
+
+.fifthbodyfull{
+  /* background-color: blue; */
+  width: 100%;
+  height: 300px;
+  flex-direction: column;
+  display: flex;
+  justify-content: space-evenly;
+
+
+}
+.fifthbodyfirstbody{
+  /* background-color: blueviolet; */
+  width: 85%;
+  height: 120px;
+  margin-left: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fifthbodyfirstimagediv{
+  width: 50%;
+  height: 110px;
+  /* background-color: aqua; */
+}
+.fifthbodysecondimagediv{
+  width: 50%;
+  height: 110px;
+  /* background-color: #e21fd8; */
+}
+.fifthimage{
+  border-radius: 8px;
+}
+.fifthbodysecondbody{
+  /* background-color: rgb(20, 3, 3); */
+  width: 82%;
+  height: 140px;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+  box-shadow: 0 0 6px black;
+  justify-content: center;
+  margin-left: 15px;
+}
+.fifthbodycarousal{
+  width: 100%;
+  height: 140px;
+  background-color: rgb(255, 254, 254);
+ border-radius: 8px;
+  display: flex;
+  
+  flex-direction: column;
+
+  
+
+}
+.carousalimagesfifth{
+  border-radius: 8px;
+  width:315px;
+  height:100px;
+  margin-left: 4px;
+}
+
+.carousalfifth{
+  /* background-color: darkgreen; */
+height: 130px;
+  
+}
+.fifthsecondhead{
+  /* background-color: rgb(236, 43, 43); */
+  width: 100%;
+  height: 25px;
+  /* border-radius:8px 8px 0 0; */
+  font-size: 16px;
+  font-weight: 600;
+
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  
+  
+}
+.fifthoffertext{
+  padding-left: 1rem;
+
+  /* background-color: aqua; */
+}
+
+
+
+/* ............................................FOOOTER......................... */
+
+.footerfull{
+  width: 100%;
+  height: 1240px;
+  background-color: rgb(12, 12, 112);
+}
+.footer1{
+  width: 100%;
+  height: 240px;
+  background-color: rgb(12, 12, 112);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-bottom: 1px solid grey;
+}
+.footer1sub{
+  width: 220px;
+  height: 120px;
+  /* background-color: aqua; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  font-size: 14px;
+  align-items: start;
+  color: white;
+}
+.footer1subjr{
+  width: 200px;
+  height: 110px;
+  /* background-color: rgb(29, 16, 25); */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  font-size: 14px;
+  align-items: start;
+  text-align: start;
+  margin-top: 20px;
+  color: white;
+
+}
+.footer1head{
+  font-size: 16px;
+  font-weight: 600;
+
+}
+#animation{
+  position: relative;
+  cursor: pointer;
+}
+#animation::after{
+  content: "";
+  position: absolute;
+  bottom: -4px;
+  height: 2px;
+  width: 100%;
+  left: 0;
+  background-color: white;
+  transition: 0.3s;
+  transition-timing-function: ease-in-out;
+  transform: scaleX(0);
+}
+#animation:hover::after{
+  transform: scaleX(1);
+  
+}
+
+
+
+.footer2{
+  width: 100%;
+  height: 390px;
+  background-color: rgb(12, 12, 112);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-bottom: 1px solid grey;
+}
+.footer2sub{
+  /* background-color: brown; */
+  width: 190px;
+  height: 350px;
+  font-size: 14px;
+  color: white;
+
+}
+.footer2subhead{
+  /* background-color: blue; */
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(252, 237, 237);
+  text-align: start;
+}
+.footer2sublist{
+  /* background-color: darkgreen; */
+  width: 100%;
+  height: 330px;
+  text-align: start;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  color: white;
+  
+}
+
+.footer2sub2{
+  /* background-color: rgb(44, 160, 29); */
+  width: 200px;
+  height: 120px;
+  font-size: 14px;
+  color: white;
+
+}
+.footer2subhead2{
+  /* background-color: rgb(255, 81, 0); */
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+}
+.footer2sublist2{
+  /* background-color: rgb(214, 21, 156); */
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  color: white;
+}
+#foot2sublistmod{
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+ 
+  
+}
+#endoffooter2{
+  width: 120px;
+}
+
+
+/* ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drop */
+
+#footer3button{
+  width: 1226px;
+  height: 45px;
+  background-color: rgb(12, 12, 112);
+  border-radius: 0;
+  color: white;
+  background-image: url(Components/Layout1/footer/down-arrow.png);
+  background-size: 12px;
+ background-position: 99%  ;
+  background-repeat: no-repeat;
+  text-align: start;
+  padding-left: 1rem;
+  border-left: 0;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  outline: none;
+  font-weight: 700;
+  padding-top: 10px;
+  font-size: 14px;
+  
+
+
+}
+.footer3{
+  width: 100%;
+  height: 45px;
+  background-color: rgb(12, 12, 112);
+  position: relative;
+}
+#footer3dropdown{
+  background-color: rgb(12, 12, 112);
+  width: 100%;
+  height: 150px;
+
+  
+
+ 
+
+  
+
+  
+}
+.footerflex{
+  display: flex;
+  width: 100%;
+  background-color: rgb(12, 12, 112);
+  height: 150px;
+}
+.footer3one{
+  font-size: 14px;
+  color: white;
+  font-weight: 500;
+  background-color: rgb(12, 12, 112);
+  height: 170px;
+  width: 270px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: start;
+  flex-direction: column;
+  padding-left: 1.5rem;
+}
+.footer3oneextend{
+  font-size: 14px;
+  color: white;
+  font-weight: 500;
+  background-color: rgb(12, 12, 112);
+  height: 170px;
+  width: 710px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  padding-left: 1.5rem;
+}
+.social{
+  width: 300px;
+  height: 50px;
+  /* background-color: aqua; */
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.footer6{
+  width: 100%;
+  height: 440px;
+  background-color: rgb(12, 12, 112);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  /* border-bottom: 1px solid grey; */
+}
+#footer6last{
+  /* background-color: aqua; */
+  width: 350px;
+}
+.footer6lastpart{
+  background-color: rgb(12, 12, 112);
+  width: 350px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#footer6sublist{
+  background-color: rgb(12, 12, 112);
+  height: 80px;
+  width: 120px;
+  display: flex;
+  flex-direction: row;
+  margin-right: 9rem;
+}
+.endoffooter{
+  text-align: end;
+  width: 100%;
+  padding-right: 1.5rem;
+  color: grey;
+  font-size: 14px;
+}
