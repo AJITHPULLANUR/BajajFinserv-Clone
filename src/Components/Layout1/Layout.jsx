@@ -4,6 +4,7 @@ import cart from "../Layout1/Logos/icons8-cart-48.png";
 import dial from "../Layout1/Logos/dial-pad.png";
 import bell from "./Logos/bell.png";
 import phone from "./Logos/iphone.png";
+import download from "../Layout1/Logos/download.jpeg"
 
 const Layout = () => {
   return (
@@ -87,27 +88,27 @@ const Layout = () => {
                     <ul class="dropdown-menu dropdown-menu-dark">
                       <li>
                         <span class="dropdown-item active">
-                          Bajaj Finserv Limited
+                          Karattu Finserv Limited
                         </span>
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
-                        <span class="dropdown-item">Bajaj Finance Limited</span>
+                        <span class="dropdown-item">Karattu Finance Limited</span>
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
-                        <span class="dropdown-item">Bajaj Housing Limited</span>
+                        <span class="dropdown-item">Karattu Housing Limited</span>
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
                         <span class="dropdown-item">
-                          Bajaj Finserv Life Insurance
+                          Karattu Finserv Life Insurance
                         </span>
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
                         <span class="dropdown-item">
-                          Bajaj Finance Direct Limited
+                          Karattu Finance Direct Limited
                         </span>
                       </li>
                       <li class="dropdown-divider"></li>
@@ -174,11 +175,11 @@ const Layout = () => {
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
-                        <span class="dropdown-item">Bajaj LIC Limited</span>
+                        <span class="dropdown-item">Karattu LIC Limited</span>
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
-                        <span class="dropdown-item">Bajaj Lodge Limited</span>
+                        <span class="dropdown-item">Karattu Lodge Limited</span>
                       </li>
                       <li class="dropdown-divider"></li>
                     </ul>
@@ -203,16 +204,16 @@ const Layout = () => {
                     <ul class="dropdown-menu dropdown-menu-dark">
                       <li>
                         <span class="dropdown-item active">
-                          Bajaj Cash Limited
+                          Karattu Cash Limited
                         </span>
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
-                        <span class="dropdown-item">Bajaj Loan Limited</span>
+                        <span class="dropdown-item">Karattu Loan Limited</span>
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
-                        <span class="dropdown-item">Bajaj Scracth Limited</span>
+                        <span class="dropdown-item">Karattu Scracth Limited</span>
                       </li>
                       <li class="dropdown-divider"></li>
                     </ul>
@@ -230,21 +231,21 @@ const Layout = () => {
                     >
                       Locate us
                     </span>
-                    <span className="review">Find bajaj Finserv branch</span>
+                    <span className="review">Find Karattu Finserv branch</span>
 
                     <ul class="dropdown-menu dropdown-menu-dark">
                       <li>
                         <span class="dropdown-item active">
-                          Bajaj Loan Limited
+                          Karattu Loan Limited
                         </span>
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
-                        <span class="dropdown-item">Bajaj Bike Limited</span>
+                        <span class="dropdown-item">Karattu Bike Limited</span>
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
-                        <span class="dropdown-item">Bajaj Car Limited</span>
+                        <span class="dropdown-item">Karattu Car Limited</span>
                       </li>
                       <li class="dropdown-divider"></li>
                     </ul>
@@ -269,16 +270,16 @@ const Layout = () => {
                     <ul class="dropdown-menu dropdown-menu-dark">
                       <li>
                         <span class="dropdown-item active">
-                          Bajaj Cash Limited
+                          Karattu Cash Limited
                         </span>
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
-                        <span class="dropdown-item">Bajaj Fund Limited</span>
+                        <span class="dropdown-item">Karattu Fund Limited</span>
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
-                        <span class="dropdown-item">Bajaj Housing Limited</span>
+                        <span class="dropdown-item">Karattu Housing Limited</span>
                       </li>
                       <li class="dropdown-divider"></li>
                     </ul>
@@ -303,16 +304,16 @@ const Layout = () => {
                     <ul class="dropdown-menu dropdown-menu-dark">
                       <li>
                         <span class="dropdown-item active">
-                          Bajaj Cash Limited
+                          Karattu Cash Limited
                         </span>
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
-                        <span class="dropdown-item">Bajaj Vehicle Limited</span>
+                        <span class="dropdown-item">Karattu Vehicle Limited</span>
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
-                        <span class="dropdown-item">Bajaj Car Limited</span>
+                        <span class="dropdown-item">Karattu Car Limited</span>
                       </li>
                       <li class="dropdown-divider"></li>
                     </ul>
@@ -337,30 +338,30 @@ const Layout = () => {
                     <ul class="dropdown-menu dropdown-menu-dark">
                       <li>
                         <span class="dropdown-item active">
-                          Bajaj Loan Limited
+                          Karattu Loan Limited
                         </span>
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
-                        <span class="dropdown-item">Bajaj Finance Limited</span>
+                        <span class="dropdown-item">Karattu Finance Limited</span>
                       </li>
                       <li class="dropdown-divider"></li>
                       <li>
-                        <span class="dropdown-item">Bajaj Sports Limited</span>
+                        <span class="dropdown-item">Karattu Sports Limited</span>
                       </li>
                       <li class="dropdown-divider"></li>
                     </ul>
                   </div>
 
                   <span className="companytext">
-                    © 2023 Bajaj Finserv Limited
+                    © 2023 Karattu Finserv Limited
                   </span>
                 </div>
               </div>
             </div>
 
-            <img
-              src="https://www.bajajfinserv.in/MyAccountAsset/images/bajajLogo.svg"
+            <img className="latestimage"
+              src={download}
               alt=""
             />
 
@@ -371,7 +372,7 @@ const Layout = () => {
             <input
               className="inputnav"
               type="text"
-              placeholder="Search Bajajfinserv.in                                                                                                                 |    "
+              placeholder="Search Karattufinserv                                                                                                                 |    "
             />
           </div>
 
@@ -458,7 +459,7 @@ const Layout = () => {
 
             <div className="dropdowndiv">
               <div className="dropbutton">
-                <span className="taghovernav">Bajaj Mall</span>
+                <span className="taghovernav">KaratuMall</span>
               </div>
               <div className="dropdownlist">
                 <span>Air conditioners</span>
@@ -478,7 +479,7 @@ const Layout = () => {
               </div>
               <div className="dropdownlist">
                 <span>All Cards</span>
-                <span>Bajaj finserv Network </span>
+                <span>Karattu finserv Network </span>
                 <span>Insta Emi Card</span>
 
                 <span>Health EMI Cards</span>
@@ -542,7 +543,7 @@ const Layout = () => {
                 <span>All offers</span>
                 <span>Cards</span>
                 <span>Loans</span>
-                <span>Bajaj Mall</span>
+                <span>Karattu Mall</span>
                 <span>Pre-approved</span>
                 <span>Insurance</span>
               </div>

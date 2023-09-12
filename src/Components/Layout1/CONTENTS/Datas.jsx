@@ -29,7 +29,7 @@ export const black = [
 
 {
     blackimg:blackelectronics,
-    blacktext :"Bajaj Mall"
+    blacktext :"Karattu Mall"
 },
 
 

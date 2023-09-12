@@ -1,5 +1,5 @@
 import "./App.css";
-import "./Bajajlatest.css";
+import "./Latest.css";
 
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";

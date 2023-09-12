@@ -207,7 +207,7 @@ const Content2 = () => {
               <div className="secondsideparagraph">
                 <span className="secondsidepara">
                   Beware of fraud calls/ SMSes/ emails/ fake online and print
-                  ads. Bajaj Finance never asks for advance payments for
+                  ads. Karattu Finance never asks for advance payments for
                   providing loans.{" "}
                 </span>
                 <span className="secondsideparalast">Know More</span>

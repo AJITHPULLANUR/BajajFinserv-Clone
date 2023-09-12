@@ -15,7 +15,7 @@ const Footer = () => {
           <div className="footer1sub">
             <span id='animation' className="footer1head">Application Forms</span>
             <span>Personal Loan</span>
-            <span>Bajaj Finserv DBS Bank credit card</span>
+            <span>Karattu Finserv DBS Bank credit card</span>
             <span>Fixed Deposit</span>
             <span>New Car Finance</span>
           </div>
@@ -45,7 +45,7 @@ const Footer = () => {
 
 
           <div className="footer1subjr">
-            <span>Bajaj Finserv RBL Bank SuperCard </span>
+            <span>Karattu Finserv RBL Bank SuperCard </span>
             <span>Loan for Doctors </span>
             <span>Two-wheeler Loan </span>
           </div>
@@ -154,7 +154,7 @@ const Footer = () => {
 
           <div className="footer2sub">
             <div className="footer2subhead">
-              <span id='animation' >Bajaj Mall</span>
+              <span id='animation' >Karattu Mall</span>
             </div>
             <div className="footer2sublist">
               <span>Personal Loan</span>
@@ -401,10 +401,10 @@ const Footer = () => {
 
     <div className="footer3oneextend">
       <div className="social">
-      <a href="https://www.facebook.com/bajajfinserv"><img width="40px" height="40px" src={fb1} alt="" /></a>
-     <a href="https://www.linkedin.com/company/bajaj-finserv-lending/mycompany/"><img width="40px" height="40px" src={twitter1} alt="" /></a> 
-      <a href="https://twitter.com/i/flow/login?redirect_after_login=%2FBajaj_Finserv"><img width="40px" height="40px" src={lin1} alt="" /></a>
-      <a href="https://www.youtube.com/c/bajajfinserv"><img width="40px" height="40px" src={ut1} alt="" /></a>
+      <a href="https://www.facebook.com/Kadanthottufinance/"><img width="40px" height="40px" src={fb1} alt="" /></a>
+     <a href="https://twitter.com/login?lang=en"><img width="40px" height="40px" src={twitter1} alt="" /></a> 
+      <a href="https://www.linkedin.com/home/?originalSubdomain=in"><img width="40px" height="40px" src={lin1} alt="" /></a>
+      <a href="https://www.youtube.com/"><img width="40px" height="40px" src={ut1} alt="" /></a>
       </div>
 
  
@@ -427,7 +427,7 @@ const Footer = () => {
               <span id='animation' >Coporate Office</span>
             </div>
             <div className="footer2sublist">
-              <span>6th Floor Bajaj Finserv Limited</span>
+              <span>6th Floor Karattu Finserv Limited</span>
               <span>Office, Pune-Ahamednagar</span>
               <span>Road, Viman Nagar,Pune-411014</span>
              
@@ -438,7 +438,7 @@ const Footer = () => {
 
           <div className="footer2sub">
             <div className="footer2subhead">
-              <span id='animation' >Bajaj Finance Limited Regd.</span>
+              <span id='animation' >Karattu Finance Limited Regd.</span>
             </div>
             <div className="footer2sublist">
               <span>Akrudi,Pune-411014</span>
@@ -496,10 +496,10 @@ const Footer = () => {
 
           <div className="footer2sub">
             <div className="footer2subhead">
-              <span id='animation' >Bajaj Finserv Limited Regd.</span>
+              <span id='animation' >Karattu Finserv Limited Regd.</span>
             </div>
             <div className="footer2sublist">
-              <span>Bajaj Auto Limited Complex</span>
+              <span>Karattu Auto Limited Complex</span>
               <span>Mumbai Pune Road</span>
               <span>Pune -440114</span>
               <span>Mumbai Pune Road</span>
@@ -527,17 +527,17 @@ const Footer = () => {
               <span id='animation' >Our Companies</span>
             </div>
             <div className="footer2sublist">
-              <span>Bajaj Finserv Ltd</span>
-              <span>Bajaj Finance Ltd</span>
-              <span>Bajaj Alliance General Insurance</span>
-              <span>Bajaj Finserv Market</span>
-              <span>Bajaj Alliance General Insurance</span>
-              <span>Bajaj Finance Ltd</span>
+              <span>Karattu Finserv Ltd</span>
+              <span>Karattu Finance Ltd</span>
+              <span>Karattu Alliance General Insurance</span>
+              <span>Karattu Finserv Market</span>
+              <span>Karattu Alliance General Insurance</span>
+              <span>Karattu Finance Ltd</span>
 
               
-              <span>Bajaj Finserv Market</span>
+              <span>Karattu Finserv Market</span>
               
-              <span>Bajaj Finance Ltd</span>
+              <span>Karattu Finance Ltd</span>
               <span>Loan against a Car</span>
               <span>New Car Finance</span>
               
@@ -553,7 +553,7 @@ const Footer = () => {
 
             
             <div className="footer2subhead">
-              <span id='animation' >Download the Bajaj Finserv App</span>
+              <span id='animation' >Download the Karattu Finserv App</span>
             </div>
 
             <div id="footer6sublist" className="footer2sublist">
@@ -574,7 +574,7 @@ const Footer = () => {
         </div>
         <div className="endoffooter">
 
-        <span >© Bajaj Finserv 2007-2023. All rights reserved.</span>
+        <span >© Karattu Finserv 2007-2023. All rights reserved.</span>
         </div>
 
       </div>

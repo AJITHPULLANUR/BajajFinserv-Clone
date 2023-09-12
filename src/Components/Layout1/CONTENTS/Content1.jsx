@@ -130,7 +130,7 @@ const Content1 = () => {
             </div>
             <div className="sidecombodiv">
               <img width="30px" height="30px" src={fridge} alt="" />
-              <span className="combotext">Bajaj Mall</span>
+              <span className="combotext">Karattu Mall</span>
             </div>
 
             <div className="sidecombodiv">

@@ -68,7 +68,7 @@
     
 }
 .inputnav{
-    width: 580px;
+    width: 590px;
     height: 35px;
     border-radius: 4px;
     border: 0;
@@ -596,7 +596,10 @@ font-weight: 500;
 
 
   
-
+.latestimage{
+  width: 40px;
+  height: 40px;
+}
 
 
 
@@ -1668,7 +1671,7 @@ height: 130px;
 /* ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,drop */
 
 #footer3button{
-  width: 1226px;
+  width: 100%;
   height: 45px;
   background-color: rgb(12, 12, 112);
   border-radius: 0;
@@ -1708,6 +1711,9 @@ height: 130px;
   
 
   
+}
+.btn-group{
+  width: 100%;
 }
 .footerflex{
   display: flex;
